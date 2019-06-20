@@ -1,0 +1,6 @@
+__pycache__
+.DS_Store
+.ipynb_checkpoints/*
+dl.cfg
+data/output_data/*
+spark-warehouse
